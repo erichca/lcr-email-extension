@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "LCR EMail Helper",
-    "version": "1.0",
+    "version": "1.0.1",
     "permissions": ["scripting", "activeTab"],
     "host_permissions": [
       "https://lcr.churchofjesuschrist.org/messaging"
